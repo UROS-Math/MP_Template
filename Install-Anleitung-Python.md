@@ -1,7 +1,8 @@
 ## Installation unter Windows
 ### install-1.bat  starten 
 
-als erstes wird Python 64 Bit installiert, folgende Punkte sollten abweichend von den Standardeinstellungen angepasst werden:
+als erstes wird Python 64 Bit installiert: Dazu [dieses Skript](https://github.com/UROS-Math/23_templates/blob/main/install_1.bat) ausführen
+folgende Punkte sollten abweichend von den Standardeinstellungen angepasst werden:
 
 - [X] add `python.exe` to path
 - Installation über `Customize`
@@ -9,7 +10,8 @@ als erstes wird Python 64 Bit installiert, folgende Punkte sollten abweichend vo
 - [X] for all users (Programm für alle Nutzer zulassen)
 - [X] Disable path length limit
 
-als nächstes wird die IDE `PyCharm` installiert, folgende Punkte sollten abweichend von den Standardeinstellungen angepasst werden:
+als nächstes wird die IDE `PyCharm` installiert: Dazu [dieses Skript](https://github.com/UROS-Math/23_templates/blob/main/install_2.bat) ausführen
+Folgende Punkte sollten abweichend von den Standardeinstellungen angepasst werden:
 
 - [X] bei 64 Bit,
 - [X] bei create Associations .py
@@ -32,4 +34,5 @@ Falls keine Fehlermeldung erscheint, sollte alles passen.
 
 ## Installation unter Linux
 
+Dazu [dieses Skript](https://github.com/UROS-Math/23_templates/blob/main/install.sh) ausführen!
 run `bash install.sh`
