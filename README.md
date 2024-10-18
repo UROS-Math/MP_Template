@@ -12,7 +12,7 @@ Bitte erstellen Sie sich einen [Github](https://github.com)-Account und melden S
 
 Git ist ein sehr verbreitetes Hilfsmittel in der Software-Entwicklung.
 Ein Cheat Sheet finden Sie [hier](https://education.github.com/git-cheat-sheet-education.pdf).
-PyCharm ist kann die wichtigsten Funktionen von Git aus der GUI.
+Aus PyCharm heraus lassen sich die wichtigsten Funktionen von Git über die GUI steuern.
 Es gibt aber andere, bessere GUIs (unter anderem eine eigene von Github).
 
 ## Installationsanleitung:
