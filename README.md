@@ -1,5 +1,24 @@
 # Modellierung und Programmierung
 
+
+
+## Voraussetzungen für das Praktikum
+
+Bitte erstellen Sie sich einen [Github](https://github.com)-Account und melden Sie sich bei dem [Classroom](https://classroom.github.com/a/K_e6PnYe) für das Praktikum an.
+
+
+
+## Git
+
+Git ist ein sehr verbreitetes Hilfsmittel in der Software-Entwicklung.
+Ein Cheat Sheet finden Sie [hier](https://education.github.com/git-cheat-sheet-education.pdf).
+PyCharm ist kann die wichtigsten Funktionen von Git aus der GUI.
+Es gibt aber andere, bessere GUIs (unter anderem eine eigene von Github).
+
+## Installationsanleitung:
+
+Eine Anleitung zur Installation der benötigten Programme für Windows und Linux finden Sie [hier](https://gitlab.uni-rostock.de/or2113/citlab_public/-/blob/main/mp/Install-Anleitung-Python.md).
+
 ## Übungen zu der Präsentation
 
 - Öffnen Sie eine Powershell im Order `python_uebungen` Ihres Git-Repositories
@@ -14,4 +33,5 @@ Falls Sie eine Einführung in LaTeX wünschen schauen Sie [hier](https://www.mat
 
 ## .gitignore
 
-Die Ordner, Dateien und Pattern werden von git ignoriert und nicht gesichert.
+Die Ordner, Dateien und Pattern aus Datei werden von git ignoriert und nicht gesichert.
+Sinnvolle Einträge sind temporäre Dateien, logs und Binärdateien (Beispielsweise Modelle).
