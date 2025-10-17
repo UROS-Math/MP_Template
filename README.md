@@ -4,7 +4,7 @@
 
 ## Voraussetzungen für das Praktikum
 
-Bitte erstellen Sie sich einen [Github](https://github.com)-Account und melden Sie sich bei dem [Classroom](https://classroom.github.com/a/K_e6PnYe) für das Praktikum an.
+Bitte erstellen Sie sich einen [Github](https://github.com)-Account und melden Sie sich bei dem [Classroom](https://classroom.github.com/a/g3fFJ9Fj) für das Praktikum an.
 
 
 
