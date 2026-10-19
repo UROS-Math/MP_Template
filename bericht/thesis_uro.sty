@@ -17,6 +17,9 @@
 %\RequirePackage{setspace} %Paket für Zeilenabstand
 \RequirePackage{colortbl} % Hintergrundfarben in Tabellen
 \RequirePackage{booktabs,multirow}	%Zusatzpakete für Tabellen
+\usepackage{enumitem,amssymb}
+\newlist{checklist}{itemize}{2}
+\setlist[checklist]{label=$\square$}
 
 %Zusätzliche Pakete welche in Thesis_kurz_thebibliography nicht benötigt wurden
 \RequirePackage{listings}	%Paket um Programmcode einzubinden
@@ -149,7 +152,16 @@ url=false %keine url anzeigen
     mir angegebenen Hilfsmitteln
     und Quellen verwendet und die den benutzten Werken inhaltlich und
     wörtlich entnommenen
-    Stellen habe ich als solche kenntlich gemacht. Ich versichere, dass die eingereichte elektronische Fassung mit den gedruckten Exemplaren übereinstimmt.
+    Stellen habe ich als solche kenntlich gemacht.
+
+    Generative KI-Anwendungen wurden zur
+    \begin{checklist}
+        \item  Überarbeitung von Texten verwendet ohne inhaltlichen Einfluss auf die Arbeit zu nehmen.
+        \item  Erstellung von Texten verwendet, die inhaltlich in die Arbeit eingeflossen sind.
+        Diese Stellen sind kenntlich gemacht.
+        \item Erstellung von Code verwendet, der in die Arbeit eingeflossen ist. Diese Stellen sind kenntlich gemacht.
+        \item Informations- oder Erkenntnisgewinnung verwendet, die in die Arbeit eingeflossen ist. Diese Stellen sind kenntlich gemacht.
+    \end{checklist}
 		
 		
   \vspace{2cm}\noindent Rostock, den \@date\\[8ex] $\ol{\text{\varautor}}$
